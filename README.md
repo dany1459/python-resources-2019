@@ -1,6 +1,14 @@
 # Python-Resources-2019
-Updated 11/19/20 A curated list of Python 3 resources, books, websites, tutorials, code challenges. If you have any suggestions for 
-additions to the list please open an issue.
+
+Numpy official website
+https://numpy.org/doc/stable/
+
+Python keywords on w3schools
+https://www.w3schools.com/python/python_ref_keywords.asp
+
+Tutorials on various topics
+https://www.geeksforgeeks.org
+
 
 ### Books
 
