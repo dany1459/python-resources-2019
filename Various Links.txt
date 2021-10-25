@@ -1,0 +1,49 @@
+1. USEFUL LINKS
+
+---Colaboratory---
+https://colab.research.google.com/notebooks/intro.ipynb
+---Python Keywords---
+https://www.w3schools.com/python/python_ref_keywords.asp
+---MDN Web Docs---
+https://developer.mozilla.org/es/
+---Advanced Indexing - Python---
+https://www.pythonlikeyoumeanit.com/Module3_IntroducingNumpy/AdvancedIndexing.html#Boolean-Array-Indexing
+---Python - .format + %---
+https://pyformat.info
+
+2. LIBRARIES & DOCUMENTATION
+
+---NumPy---
+https://numpy.org/doc/stable/index.html
+---Pandas---
+https://pandas.pydata.org/docs/
+---MatPlotLib---
+https://matplotlib.org/devdocs/api/_as_gen/matplotlib.pyplot.hist.html
+---Streamlit---
+https://docs.streamlit.io/library/api-reference
+---Altair---
+https://altair-viz.github.io/gallery/index.html#gallery-category-interactive-charts
+---ScikitLearn---
+https://scikit-learn.org/stable/modules/classes.html
+
+3. TUTORIALS
+
+---GitHub tutorial---
+https://www.youtube.com/watch?v=Uszj_k0DGsg
+---Linear Algebra---
+https://www.youtube.com/playlist?list=PLHXZ9OQGMqxfUl0tcqPNTJsb7R6BqSLo6
+https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
+---Statistics---
+https://www.youtube.com/watch?v=sxQaBpKfDRk
+https://www.youtube.com/watch?v=hlFeEQF5tDc
+---Naive Bayes---
+https://www.youtube.com/watch?v=O2L2Uv9pdDA
+
+4. MACHINE LEARNING
+
+---Intro to ML---
+https://www.kaggle.com/learn/intro-to-machine-learning
+---Clustering---
+https://scikit-learn.org/stable/modules/clustering.html
+---Decision Trees---
+https://scikit-learn.org/stable/modules/tree.html
