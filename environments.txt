@@ -1,7 +1,9 @@
 cd c:\
 
+### create a new venv
 python3 -m venv DeepMachineLearning
 
+### activate an existing venv
 DeepMachineLearning\scripts\activate
 
 c:\DeepMachineLearning\Scripts\python.exe -m pip install --upgrade pip
