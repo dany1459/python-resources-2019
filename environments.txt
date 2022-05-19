@@ -8,10 +8,18 @@ DeepMachineLearning\scripts\activate
 
 c:\DeepMachineLearning\Scripts\python.exe -m pip install --upgrade pip
 
-
-pip install -U scikit-learn
 pip install pandas
 pip install matplotlib
+
+pip install -U scikit-learn
+pip install -U Flask
+pip install flask-login
+pip install -U Flask-SQLAlchemy
+pip install SQLAlchemy
+pip install Werkzeug
+pip install gunicorn
+
+
 
 conda install -c pytorch pytorch
 pip3 install torch==1.10.0+cu113 torchvision==0.11.1+cu113 torchaudio===0.10.0+cu113 -f https://download.pytorch.org/whl/cu113/torch_stable.html
